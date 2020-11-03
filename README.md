@@ -71,6 +71,10 @@
 To install the required pakages, run the folloing commands
 
 ```sh
+download Whatsapp-Anime-Bot1
+```
+
+```sh
 npm install
 ```
 ## Giving yourself access
