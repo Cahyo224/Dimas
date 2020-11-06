@@ -71,7 +71,11 @@
 To install the required pakages, run the folloing commands
 
 ```sh
-download Whatsapp-Anime-Bot1
+download Whatsapp-Anime-Bot
+```
+
+```sh
+cd Whatsapp-anime-bot
 ```
 
 ```sh
@@ -117,3 +121,8 @@ Copyright © 2020 [Ban Takahiro](https://github.com/AlenSaito1).<br />
 This project is [GNU](https://github.com/AlenSaito1/Whatsapp-Anime-Bot/blob/master/LICENSE) licensed.
 
 ***
+
+Big Thanks To
+[@AlenSaito1](https://github.com/AlenSaito1)
+
+
